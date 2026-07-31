@@ -67,6 +67,7 @@ for num in range(1, 11):
         print(f"{num} เป็นเลขคู่")
     else:
         print(f"{num} เป็นเลขคี่")
+# ผลรัน
 
 print("\nDemo เกมทายตัวเลข (จำลอง):")
 import random
